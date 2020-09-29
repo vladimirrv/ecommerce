@@ -1,0 +1,2 @@
+com\ecommerce\products\client\http\AddProductCommand.class
+com\ecommerce\products\client\http\ListProductCommand.class

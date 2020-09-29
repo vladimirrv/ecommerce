@@ -1,0 +1,2 @@
+org\apache\karaf\examples\rest\client\http\AddBookingCommand.class
+org\apache\karaf\examples\rest\client\http\ListBookingCommand.class
